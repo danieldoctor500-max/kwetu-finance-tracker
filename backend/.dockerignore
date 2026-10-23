@@ -1,0 +1,9 @@
+node_modules
+dist
+src/generated/prisma
+coverage
+*.log
+kwetu-cookies.txt
+audit-report.json
+.env
+.env.*
